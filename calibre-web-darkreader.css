@@ -1,0 +1,29 @@
+html{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-kerning: auto;
+}
+#main{
+	background-color: #262626;
+}
+#titlebar {
+    color:#d5d5d5
+}
+.arrow{
+    color:#393939;
+}
+#divider {
+    position: absolute;
+    width: 1px;
+    border-right: 1px #8d8d8d solid;
+    height: 80%;
+    z-index: 1;
+    left: 50%;
+    margin-left: -1px;
+    top: 10%;
+    opacity: 0.15;
+    box-shadow: -2px 0 15px rgba(0, 0, 0, 1);
+    display: none;
+}
+.calibre{
+	color: #bdbdbd;
+}
