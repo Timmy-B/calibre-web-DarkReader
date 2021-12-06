@@ -1,11 +1,4 @@
 /* Dark mod for calibre-web */
-* {
-    outline: none;
-}
-html{
-    font-family: "Trebuchet MS", Verdana, sans-serif;
-    font-kerning: auto;
-}
 #main{
 	background-color: #262626;
 }
