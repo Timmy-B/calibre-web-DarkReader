@@ -1,6 +1,6 @@
 /* Dark mod for calibre-web */
 #main{
-	background-color: #262626;
+	background-color: #262626 !important;
 }
 #titlebar {
     color:#d5d5d5
